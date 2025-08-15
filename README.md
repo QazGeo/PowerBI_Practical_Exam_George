@@ -66,7 +66,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 *Showcase of advanced visualization techniques*
 
 #### Dashboard
-![Dashboard](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/DASHBOARD.png?raw=true)
+![Dashboard](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/DASHBOARD2.png?raw=true)
 *Dashboard showcase*
 
 ### Row-Level Security

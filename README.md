@@ -77,7 +77,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 ### Sales Performance
 - **Total Revenue**: $97 million across all periods
 - **Peak Performance**: The month of May showed highest sales volume
-- **Geographic Distribution**: [Top performing regions/countries]
+- **Geographic Distribution**: USA had the most sales overall
 
 ### Product Analysis
 - **Top Category**: Bikes contributed 96% of total sales

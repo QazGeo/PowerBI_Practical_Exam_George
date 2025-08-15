@@ -35,7 +35,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 ### Report Pages
 
 #### Sales Overview
-![Sales Overview]([screenshots/sales_overview_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/SALES%20OVERVIEW.png))
+![Sales Overview](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/SALES%20OVERVIEW.png?raw=true)
 *Comprehensive sales dashboard featuring:*
 - KPI cards with sales targets and running totals
 - Sales trend line chart with forecasting
@@ -53,7 +53,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 - Category performance breakdowns
 
 #### Customer Insights
-![Customer Insights]([screenshots/customer_insights_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/CUSTOMER_INSIGHTS.png))
+![Customer Insights](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/PRODUCT_ANALYSIS.png?raw=true)
 *Customer behavior and segmentation analysis with:*
 - Key customer metrics cards (Country count, Total Sales)
 - Multi-row card featuring profit margin, budget, total sales, total customers, and top customer sales
@@ -62,7 +62,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 - Customer performance analysis
 
 #### Visuals Gallery
-![Visuals Gallery]([screenshots/visuals_gallery_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/VISUALS_GALLERY.png))
+![Visuals Gallery](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/VISUALS_GALLERY.png?raw=true)
 *Showcase of advanced visualization techniques*
 
 ### Row-Level Security

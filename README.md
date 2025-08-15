@@ -29,13 +29,13 @@ This repository contains the complete PowerBI practical exam project analyzing A
 ## Screenshots
 
 ### Star Schema
-![Star Schema](screenshots/model_view.png)
+![Star Schema]([screenshots/model_view.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/MODELVIEW.png))
 *Star schema showing relationships between fact and dimension tables*
 
 ### Report Pages
 
 #### Sales Overview
-![Sales Overview](screenshots/sales_overview_page.png)
+![Sales Overview]([screenshots/sales_overview_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/SALES%20OVERVIEW.png))
 *Comprehensive sales dashboard featuring:*
 - KPI cards with sales targets and running totals
 - Sales trend line chart with forecasting
@@ -45,7 +45,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 - Interactive slicers for Year, Category, and Region
 
 #### Product Analysis
-![Product Analysis](screenshots/product_analysis_page.png)
+![Product Analysis]([screenshots/product_analysis_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/PRODUCT_ANALYSIS.png))
 *Product performance analysis including:*
 - Profit analysis donut chart by product
 - Treemap visualization of sales amount by category
@@ -53,7 +53,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 - Category performance breakdowns
 
 #### Customer Insights
-![Customer Insights](screenshots/customer_insights_page.png)
+![Customer Insights]([screenshots/customer_insights_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/CUSTOMER_INSIGHTS.png))
 *Customer behavior and segmentation analysis with:*
 - Key customer metrics cards (Country count, Total Sales)
 - Multi-row card featuring profit margin, budget, total sales, total customers, and top customer sales
@@ -62,18 +62,14 @@ This repository contains the complete PowerBI practical exam project analyzing A
 - Customer performance analysis
 
 #### Visuals Gallery
-![Visuals Gallery](screenshots/visuals_gallery_page.png)
+![Visuals Gallery]([screenshots/visuals_gallery_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/VISUALS_GALLERY.png))
 *Showcase of advanced visualization techniques*
 
-### Dashboard
-![PowerBI Dashboard](screenshots/dashboard.png)
-*Executive dashboard with key metrics and insights*
-
 ### Row-Level Security
-![RLS Setup](screenshots/rls_setup.png)
+![RLS Setup](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/ROLES.png)
 *Security role configuration for data access control*
 
-![RLS Testing](screenshots/rls_testing.png)
+![RLS Testing](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/ROLE_TEST.png)
 *Testing results showing filtered data by role*
 
 ## Key Insights

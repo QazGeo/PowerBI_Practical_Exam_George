@@ -65,6 +65,10 @@ This repository contains the complete PowerBI practical exam project analyzing A
 ![Visuals Gallery](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/VISUALS_GALLERY.png?raw=true)
 *Showcase of advanced visualization techniques*
 
+#### Dashboard
+![Dashboard](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/DASHBOARD.png?raw=true)
+*Dashboard showcase*
+
 ### Row-Level Security
 ![RLS Setup](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/ROLES.png)
 *Security role configuration for data access control*

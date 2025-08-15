@@ -29,7 +29,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 ## Screenshots
 
 ### Star Schema
-![Star Schema]([screenshots/model_view.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/MODELVIEW.png))
+![Star Schema](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/MODELVIEW.png?raw=true)
 *Star schema showing relationships between fact and dimension tables*
 
 ### Report Pages

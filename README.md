@@ -45,7 +45,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 - Interactive slicers for Year, Category, and Region
 
 #### Product Analysis
-![Product Analysis]([screenshots/product_analysis_page.png](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/d75dd62a732ece134887c7bf89870d2618e41a84/Screenshots/PRODUCT_ANALYSIS.png))
+![Product Analysis](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/PRODUCT_ANALYSIS.png?raw=true)
 *Product performance analysis including:*
 - Profit analysis donut chart by product
 - Treemap visualization of sales amount by category
@@ -53,7 +53,7 @@ This repository contains the complete PowerBI practical exam project analyzing A
 - Category performance breakdowns
 
 #### Customer Insights
-![Customer Insights](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/PRODUCT_ANALYSIS.png?raw=true)
+![Customer Insights](https://github.com/QazGeo/PowerBI_Practical_Exam_George/blob/main/Screenshots/CUSTOMER_INSIGHTS.png?raw=true)
 *Customer behavior and segmentation analysis with:*
 - Key customer metrics cards (Country count, Total Sales)
 - Multi-row card featuring profit margin, budget, total sales, total customers, and top customer sales
